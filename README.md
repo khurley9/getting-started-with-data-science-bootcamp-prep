@@ -15,7 +15,7 @@ Learn.co is also the world’s most sophisticated platform for learning how to c
 
 ![Learn IDE](https://s3-us-west-2.amazonaws.com/curriculum-content/mobile-orientation/IDE.gif)
 
-At Flatiron School, we’ve helped thousands of students not only start new careers, but also learn to how to love code.
+At Flatiron School, we’ve helped thousands of students not only start new careers, but also learn how to love code.
 
 “You’re never going to be in a more nurturing, supportive environment that is just a complete green field for you to learn and ask questions, and challenge and be challenged. It’s an incredible opportunity to focus and to level up in a way that you may never get again in your life, or in your career” -- Mike Spangler, Software Engineer NASA
 
